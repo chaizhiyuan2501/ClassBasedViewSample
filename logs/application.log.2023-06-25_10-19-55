@@ -1,0 +1,1 @@
+2023-06-25 10:19:55,971 INFO [C:\Code\Python\Django\Udemy_django\ClassBasedView\class_based_view\class_based_view\middleware.py:11] <bound method HttpRequest.get_full_path of <WSGIRequest: GET '/store/list_books/'>>

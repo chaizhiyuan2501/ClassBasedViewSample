@@ -1,0 +1,2 @@
+2023-06-25 10:57:35,307 INFO [C:\Code\Python\Django\Udemy_django\ClassBasedView\class_based_view\class_based_view\middleware.py:13] <bound method HttpRequest.get_full_path of <WSGIRequest: POST '/store/delete_book/11'>>
+2023-06-25 10:57:35,327 INFO [C:\Code\Python\Django\Udemy_django\ClassBasedView\class_based_view\class_based_view\middleware.py:13] <bound method HttpRequest.get_full_path of <WSGIRequest: GET '/store/list_books/'>>
