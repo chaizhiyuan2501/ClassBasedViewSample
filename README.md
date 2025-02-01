@@ -15,7 +15,7 @@
 ## 🛠️ 使用技術
 - **フレームワーク**: Django 5
 - **データベース**: SQLite
-- **フロントエンド**: HTML / CSS
+- **フロントエンド**: HTML
 - **開発環境**: Python 3.x, Django Shell
 - **仮想環境**: venv
 
